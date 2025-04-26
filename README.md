@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/andria2115" target="blank"><img src="https://img.shields.io/twitter/follow/andria2115?logo=twitter&style=for-the-badge" alt="andria2115" /></a> </p>
 
-- 🔭 I’m currently working on [Ani-Fit](https://github.com/andria21/Anii-Fit)
+- 🔭 I’m currently working on [DM's AI](https://github.com/andria21/DMS-NEWEST-WEBSITE)
 
 - 🌱 I’m currently learning **Redux for state management in React Native**
 
-- 💬 Ask me about **React, React Native**
+- 💬 Ask me about **React, Next.js & Node.js**
 
 - 📫 How to reach me **andriamarqarovi33@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t8vjtzXEuHZRXXKNhzuebfPhOU9PM6DO/view?usp=sharing](https://drive.google.com/file/d/1t8vjtzXEuHZRXXKNhzuebfPhOU9PM6DO/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1cNw478GPa-xmiJcbx7igo1oRhQtRSCBM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
